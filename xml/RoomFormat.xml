@@ -1,0 +1,26 @@
+<!-- map editor needs to pump out this info -->
+<room>
+	<texture url="./textures/rooms/category/49832894312.png" />
+	<!-- rooms are defined by rectangular regions to approximate the rooms shape -->
+	<!-- consider abandoning 'type' and just have them all be the same.  this should make floor layouts more random! -->
+	<rooms>
+		<room type="NORMAL" 		x="20" 	y="12" 	w="30" 	h="14" />
+		<room type="NORMAL" 		x="8" 	y="10" 	w="15" 	h="12" />
+		<!--
+		<room type="VAULT" 			x="8" 	y="10" 	w="15" 	h="12" />
+		<room type="SHOP" 			x="8" 	y="10" 	w="15" 	h="12" />
+		<room type="MONSTERHOUSE" 	x="8" 	y="10" 	w="15" 	h="12" />
+		-->
+	<rooms>
+		
+	<!-- 
+		exits, like rooms, are defined by rectangular regions. 
+		if the exit to room is walled of, we will flip all tiles within it's exit region to walls
+	-->
+	<exits>
+		<north 	x="4" 	y="0" 	w="5" 	h="5" />
+		<south 	x="4" 	y="0" 	w="5" 	h="5" />
+		<east 	x="4" 	y="0" 	w="5" 	h="5" />
+		<west 	x="4" 	y="0" 	w="5" 	h="5" />
+	</exits>
+</room>

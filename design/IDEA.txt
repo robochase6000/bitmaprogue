@@ -1,0 +1,17 @@
+ROGUELIKE IDEAS:
+
+On Randomized Loot:
+* Magic Weapons can have a number of effects applied to them.
+* The affects are unknown when the user first gets the magic weapon.
+* The affects are never listed by the cpu and are always hidden from the user.
+* the user may type in what he thinks the affects are.
+* Because of the mystery, affects need to be quite clear, perhaps as messages to the user. For example, a shield that regenerates health when walking may prompt the user with the occasional message: "With every step, you feel rejuvenat'd."  To that end, affects should be quite clear, either by seeing actual stats change, or through visual cues in-game ( a fire sword, for example ).
+
+
+
+Possible Enemies:
+* SCORCHER :: A Fire based enemy that can set the player afire.  Being set on fire can cause any number of unprotected scrolls or staves to burn up & be destroyed forever. Perhaps these items turn to ash, which can be used for other purposes.
+
+
+On Combining Items:
+I want to be able to combine items to make something unique. Science based items & magic based items.

@@ -1,0 +1,22 @@
+<rooms>
+	<!-- MYSTERY DUNGEON -->
+	<room url="xml/maps/test/WindingRoad.xml" />
+	<room url="xml/maps/test/TestRoom_0.xml" />
+	<room url="xml/maps/test/Sectionals.xml" />
+	<room url="xml/maps/test/BigSquare.xml" />
+	<room url="xml/maps/test/Tomb.xml" />
+	
+	<!-- CAVES -->
+	<room url="xml/maps/test/Caves_2.xml" />
+	<room url="xml/maps/test/Caves.xml" />
+	
+	<!-- STREETS -->
+	<room url="xml/maps/streets/1Corner.xml" />
+	<room url="xml/maps/streets/2Corners.xml" />
+	<room url="xml/maps/streets/3Corners.xml" />
+	<room url="xml/maps/streets/4Corners.xml" />
+	<room url="xml/maps/streets/0Corners.xml" />
+	<room url="xml/maps/streets/KittyCorner.xml" />
+	<room url="xml/maps/streets/AlleyWays_4Corners.xml" />
+	
+</rooms>

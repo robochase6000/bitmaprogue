@@ -1,0 +1,19 @@
+<character name="Hero">
+	
+	
+	<stats>
+		<stat type="HP" max="22" />
+		<stat type="MP" max="10" />
+		<stat type="STR" max="5" />
+	</stats>
+	
+	<attack>
+		
+	</attack>
+	
+	<art>
+		<spritesheet name="fjdklsa.png" />
+	</art>
+	
+	
+</character>
